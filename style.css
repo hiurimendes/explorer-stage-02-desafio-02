@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans';    
+}
+
+#main {
+    width: 626px;
+    margin: 64px auto 64px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Dosis';
+    font-weight: 500;
+    color: #3F3D56;
+}
+
+h1 span {
+    color: #EE24FF;
+    font-weight: 700;
+}
+
+p {
+    font-size: 15px;
+    width: 540px;
+    margin: auto;
+    color: #828282;
+}
+
+p .paragrafo {
+  font-style: bold;
+  font-weight: 700;
+  color: #3F3D56;
+}
+
+#line {
+    border: solid 1px #ECEFF2;
+    width: 391px;
+    margin: 16px auto;
+}
+
+#footer {
+    text-align: center;
+    text-decoration: none;
+}
+
+#links a {
+    color:#3F3D56;
+    margin: 0 0 0 42px;
+}
+
+#ondas img {
+    position: fixed;
+    margin:auto;
+    max-width: 100%;
+    max-height: 100%;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
